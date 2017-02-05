@@ -1,0 +1,9 @@
+{
+  "name": "event_switch",
+  "version": "1.0.0",
+  "description": "A simple web sockets implementation",
+  "main": "index.js",
+  "repository": {},
+  "author": "Dale Corns",
+  "license": "GPL"
+}
